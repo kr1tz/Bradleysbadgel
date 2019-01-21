@@ -1,0 +1,10 @@
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.vbproj.GenerateResource.Cache
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\bin\Release\BradleysBagel.exe
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\bin\Release\BradleysBagel.pdb
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\bin\Release\BradleysBagel.xml
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.AboutBox.resources
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.MainForm.resources
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.Resources.resources
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.exe
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.xml
+C:\Users\Kritz\Desktop\Bradley's Bagel\BradleysBagel\WindowsApplication1\obj\x86\Release\BradleysBagel.pdb
